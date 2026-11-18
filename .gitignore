@@ -1,0 +1,8 @@
+# build scaffolding, not part of the entry (the snapshot cap is 8192 bytes total)
+engine_src.py
+pack.py
+notes.md
+perft.py
+diff_moves.py
+selfplay.py
+__pycache__/
